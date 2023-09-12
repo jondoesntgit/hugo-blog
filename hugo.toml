@@ -8,3 +8,7 @@ buildFuture = true
 name = 'Daily'
 pageRef = '/daily'
 weight = 10
+
+
+[markup.goldmark.renderer]
+unsafe= true
